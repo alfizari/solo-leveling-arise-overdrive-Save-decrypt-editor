@@ -44,6 +44,8 @@ Choose the appropriate save option:
 
 If you are transferring your edited PC save to PS5:
 
+::Load you PC save with the correct steam id first::
+
 1. Select **Save and Encrypt for Other Platform**.
 2. Locate the generated `.db` file.
 3. Rename the file to `SaveData` (remove the `.db` extension).
